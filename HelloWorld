@@ -1,2 +1,2 @@
-print ("Wello World")
-print ("Ola Mundo")
+print ('Wello World')
+print ('Ola Mundo')
